@@ -1,0 +1,779 @@
+[
+  {
+    "key": 1,
+    "type": "adidas",
+    "productKey": "GX5053",
+    "name": "ADIDAS NIZZA WHITE BLUE (GX5053)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/adidas/adidas-else-1.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/adidas/adidas-else-1.1.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-1.2.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-1.3.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-1.4.jpg"
+      ]
+    },
+    "size": ["36.5", "42", "42.5", "43"],
+    "stock": 10,
+    "price": 1250000
+  },
+  {
+    "key": 2,
+    "type": "adidas",
+    "productKey": "FW4910",
+    "name": "ADIDAS X9000L4 BLACK GREY SIX (FW4910)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/adidas/adidas-else-2.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/adidas/adidas-else-2.1.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-2.2.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-2.3.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-2.4.jpg"
+      ]
+    },
+    "size": ["42", "42.5"],
+    "stock": 10,
+    "price": 1800000
+  },
+  {
+    "key": 3,
+    "type": "adidas",
+    "productKey": "BD7655",
+    "name": "ADIDAS YUNG 1 LEGEND IVY (BD7655)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/adidas/adidas-else-3.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/adidas/adidas-else-3.1.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-3.2.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-3.3.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-3.1.jpg"
+      ]
+    },
+    "size": ["42"],
+    "stock": 10,
+    "price": 1300000
+  },
+  {
+    "key": 4,
+    "type": "adidas",
+    "productKey": "DB2605",
+    "name": "ADIDAS YUNG 96 GREY YELLOW (DB2605)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/adidas/adidas-else-4.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/adidas/adidas-else-4.1.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-4.2.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-4.3.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-4.4.jpg"
+      ]
+    },
+    "size": ["40.5"],
+    "stock": 10,
+    "price": 1350000
+  },
+  {
+    "key": 5,
+    "type": "adidas",
+    "productKey": "FV4138",
+    "name": "ADIDAS NITE JOGGER WHITE GOLD (FV4138)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/adidas/adidas-else-5.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/adidas/adidas-else-5.1.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-5.2.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-5.3.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-5.1.jpg"
+      ]
+    },
+    "size": ["36.5"],
+    "stock": 10,
+    "price": 900000
+  },
+  {
+    "key": 6,
+    "type": "adidas",
+    "productKey": "EE5914",
+    "name": "ADIDAS NITE JOGGER X 3M CORE BLACK (EE5914)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/adidas/adidas-else-6.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/adidas/adidas-else-6.1.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-6.2.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-6.3.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-6.4.jpg"
+      ]
+    },
+    "size": ["39"],
+    "stock": 10,
+    "price": 1000000
+  },
+  {
+    "key": 7,
+    "type": "adidas",
+    "productKey": "EF9024",
+    "name": "ADIDAS FALCON CORE BLACK (EF9024)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/adidas/adidas-else-7.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/adidas/adidas-else-7.1.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-7.2.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-7.3.jpg",
+        "../assets/images/sneakers/adidas/adidas-else-7.4.jpg"
+      ]
+    },
+    "size": ["36.5"],
+    "stock": 10,
+    "price": 1300000
+  },
+  {
+    "key": 8,
+    "type": "adidas",
+    "productKey": "GW2869",
+    "name": "ADIDAS YEEZY 350 MONO ICE (GW2869)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/adidas/adidas-yeezy-1.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/adidas/adidas-yeezy-1.1.jpg",
+        "../assets/images/sneakers/adidas/adidas-yeezy-1.2.jpg",
+        "../assets/images/sneakers/adidas/adidas-yeezy-1.3.jpg",
+        "../assets/images/sneakers/adidas/adidas-yeezy-1.4.jpg"
+      ]
+    },
+    "size": ["39", "44"],
+    "stock": 10,
+    "price": 6750000
+  },
+  {
+    "key": 9,
+    "type": "adidas",
+    "productKey": "FX6819",
+    "name": "ADIDAS NMD R1 SPECTOO X NASA (FX6819)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/adidas/adidas-nmd-1.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/adidas/adidas-nmd-1.1.jpg",
+        "../assets/images/sneakers/adidas/adidas-nmd-1.2.jpg",
+        "../assets/images/sneakers/adidas/adidas-nmd-1.3.jpg",
+        "../assets/images/sneakers/adidas/adidas-nmd-1.4.jpg"
+      ]
+    },
+    "size": ["39", "44"],
+    "stock": 10,
+    "price": 1750000
+  },
+  {
+    "key": 10,
+    "type": "adidas",
+    "productKey": "FZ3205",
+    "name": "ADIDAS NMD R1 SPECTOO WHITE (FZ3205)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/adidas/adidas-nmd-2.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/adidas/adidas-nmd-2.1.jpg",
+        "../assets/images/sneakers/adidas/adidas-nmd-2.2.jpg",
+        "../assets/images/sneakers/adidas/adidas-nmd-2.3.jpg",
+        "../assets/images/sneakers/adidas/adidas-nmd-2.4.jpg"
+      ]
+    },
+    "size": ["39", "44"],
+    "stock": 10,
+    "price": 1600000
+  },
+  {
+    "key": 11,
+    "type": "adidas",
+    "productKey": "FZ3204",
+    "name": "ADIDAS NMD R1 SPECTOO BLACK (FZ3204)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/adidas/adidas-nmd-3.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/adidas/adidas-nmd-3.1.jpg",
+        "../assets/images/sneakers/adidas/adidas-nmd-3.2.jpg",
+        "../assets/images/sneakers/adidas/adidas-nmd-3.3.jpg",
+        "../assets/images/sneakers/adidas/adidas-nmd-3.4.jpg"
+      ]
+    },
+    "size": ["39", "44"],
+    "stock": 10,
+    "price": 1750000
+  },
+  {
+    "key": 12,
+    "type": "adidas",
+    "productKey": "FX5653",
+    "name": "STAN SMITH PRIMEGREEN FLORAL (FX5653)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/adidas/adidas-st-1.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/adidas/adidas-st-1.1.jpg",
+        "../assets/images/sneakers/adidas/adidas-st-1.2.jpg",
+        "../assets/images/sneakers/adidas/adidas-st-1.3.jpg",
+        "../assets/images/sneakers/adidas/adidas-st-1.4.jpg"
+      ]
+    },
+    "size": ["39", "44"],
+    "stock": 10,
+    "price": 1350000
+  },
+  {
+    "key": 13,
+    "type": "adidas",
+    "productKey": "EE8483",
+    "name": "STAN SMITH DIAMOND (EE8483)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/adidas/adidas-st-2.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/adidas/adidas-st-2.1.jpg",
+        "../assets/images/sneakers/adidas/adidas-st-2.2.jpg",
+        "../assets/images/sneakers/adidas/adidas-st-2.3.jpg",
+        "../assets/images/sneakers/adidas/adidas-st-2.4.jpg"
+      ]
+    },
+    "size": ["39", "44"],
+    "stock": 10,
+    "price": 1450000
+  },
+  {
+    "key": 14,
+    "type": "adidas",
+    "productKey": "FX5653",
+    "name": "STAN SMITH GREEN",
+    "img": {
+      "mainImg": "../assets/images/sneakers/adidas/adidas-st-3.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/adidas/adidas-st-3.1.jpg",
+        "../assets/images/sneakers/adidas/adidas-st-3.2.jpg",
+        "../assets/images/sneakers/adidas/adidas-st-3.3.jpg",
+        "../assets/images/sneakers/adidas/adidas-st-3.4.jpg"
+      ]
+    },
+    "size": ["39", "44"],
+    "stock": 10,
+    "price": 1350000
+  },
+  {
+    "key": 15,
+    "type": "nike",
+    "productKey": "",
+    "name": "AF1 GUCCI STYLE",
+    "img": {
+      "mainImg": "../assets/images/sneakers/nike/nike-af1custom-1.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/nike/nike-af1custom-1.1.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-1.2.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-1.3.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-1.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "40.5", "43"],
+    "stock": 10,
+    "price": 3900000
+  },
+  {
+    "key": 16,
+    "type": "nike",
+    "productKey": "",
+    "name": "AIR FORCE 1 CUSTOM CHICAGO",
+    "img": {
+      "mainImg": "../assets/images/sneakers/nike/nike-af1custom-2.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/nike/nike-af1custom-2.1.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-2.2.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-2.3.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-2.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "40.5", "43"],
+    "stock": 10,
+    "price": 3800000
+  },
+  {
+    "key": 17,
+    "type": "nike",
+    "productKey": "",
+    "name": "AIR FORCE 1 CUSTOM TEAM ORANGE",
+    "img": {
+      "mainImg": "../assets/images/sneakers/nike/nike-af1custom-3.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/nike/nike-af1custom-3.1.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-3.2.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-3.3.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-3.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "41", "42"],
+    "stock": 10,
+    "price": 3950000
+  },
+  {
+    "key": 18,
+    "type": "nike",
+    "productKey": "",
+    "name": "AIR FORCE 1 CUSTOM SBB",
+    "img": {
+      "mainImg": "../assets/images/sneakers/nike/nike-af1custom-4.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/nike/nike-af1custom-4.1.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-4.2.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-4.3.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "41", "42"],
+    "stock": 10,
+    "price": 3950000
+  },
+  {
+    "key": 19,
+    "type": "nike",
+    "productKey": "",
+    "name": "AIR FORCE 1 CUSTOM PANDA",
+    "img": {
+      "mainImg": "../assets/images/sneakers/nike/nike-af1custom-5.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/nike/nike-af1custom-5.1.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-5.2.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-5.3.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-5.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "41", "42"],
+    "stock": 10,
+    "price": 3800000
+  },
+  {
+    "key": 20,
+    "type": "nike",
+    "productKey": "",
+    "name": "AIR FORCE 1 CUSTOM LOVE LETTER",
+    "img": {
+      "mainImg": "../assets/images/sneakers/nike/nike-af1custom-6.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/nike/nike-af1custom-6.1.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-6.2.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-6.3.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-6.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "41", "42"],
+    "stock": 10,
+    "price": 3800000
+  },
+  {
+    "key": 21,
+    "type": "nike",
+    "productKey": "",
+    "name": "AIR FORCE 1 CUSTOM VINTAGE",
+    "img": {
+      "mainImg": "../assets/images/sneakers/nike/nike-af1custom-7.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/nike/nike-af1custom-7.1.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-7.2.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-7.3.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-7.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "41", "42"],
+    "stock": 10,
+    "price": 3800000
+  },
+  {
+    "key": 22,
+    "type": "nike",
+    "productKey": "",
+    "name": "AIR FORCE 1 CUSTOM MALACHIATE",
+    "img": {
+      "mainImg": "../assets/images/sneakers/nike/nike-af1custom-8.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/nike/nike-af1custom-8.1.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-8.2.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-8.3.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-8.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "41", "42"],
+    "stock": 10,
+    "price": 3800000
+  },
+  {
+    "key": 23,
+    "type": "nike",
+    "productKey": "",
+    "name": "AIR FORCE 1 CUSTOM PINKSICL",
+    "img": {
+      "mainImg": "../assets/images/sneakers/nike/nike-af1custom-9.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/nike/nike-af1custom-9.1.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-9.2.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-9.3.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-9.4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "41", "42"],
+    "stock": 10,
+    "price": 3750000
+  },
+  {
+    "key": 24,
+    "type": "nike",
+    "productKey": "",
+    "name": "AIR FORCE 1 CUSTOM SHADOW TOE",
+    "img": {
+      "mainImg": "../assets/images/sneakers/nike/nike-af1custom-10.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/nike/nike-af1custom-10.1.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-10.2.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-10.3.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-10.4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "41", "42"],
+    "stock": 10,
+    "price": 3800000
+  },
+  {
+    "key": 25,
+    "type": "nike",
+    "productKey": "",
+    "name": "AIR FORCE 1 CUSTOM LIGHT SMOKE",
+    "img": {
+      "mainImg": "../assets/images/sneakers/nike/nike-af1custom-11.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/nike/nike-af1custom-11.1.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-11.2.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-11.3.jpg",
+        "../assets/images/sneakers/nike/nike-af1custom-11.4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "41", "42"],
+    "stock": 10,
+    "price": 3750000
+  },
+  {
+    "key": 26,
+    "type": "puma",
+    "productKey": "30966702",
+    "name": "PUMA MULE WHITE HOLOGRAM (30966702)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/puma/puma-mule-1.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/puma/puma-mule-1.1.jpg",
+        "../assets/images/sneakers/puma/puma-mule-1.2.jpg",
+        "../assets/images/sneakers/puma/puma-mule-1.3.jpg",
+        "../assets/images/sneakers/puma/puma-mule-1.4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "40.5", "43"],
+    "stock": 10,
+    "price": 1000000
+  },
+  {
+    "key": 27,
+    "type": "puma",
+    "productKey": "37131804",
+    "name": "PUMA MULE WHITE PINK (37131804)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/puma/puma-mule-2.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/puma/puma-mule-2.1.jpg",
+        "../assets/images/sneakers/puma/puma-mule-2.2.jpg",
+        "../assets/images/sneakers/puma/puma-mule-2.3.jpg",
+        "../assets/images/sneakers/puma/puma-mule-2.4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "40.5", "43"],
+    "stock": 10,
+    "price": 1250000
+  },
+  {
+    "key": 28,
+    "type": "puma",
+    "productKey": "37131802",
+    "name": "PUMA MULE WHITE (37131802)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/puma/puma-mule-4.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/puma/puma-mule-3.1.jpg",
+        "../assets/images/sneakers/puma/puma-mule-3.2.jpg",
+        "../assets/images/sneakers/puma/puma-mule-3.3.jpg",
+        "../assets/images/sneakers/puma/puma-mule-3.4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "41", "42"],
+    "stock": 10,
+    "price": 1250000
+  },
+  {
+    "key": 29,
+    "type": "puma",
+    "productKey": "37131801",
+    "name": "PUMA MULE BLACK (37131801)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/puma/puma-mule-4.jpg",
+      "arrImg": ["../assets/images/sneakers/puma/puma-mule-4.jpg"]
+    },
+    "size": ["36.5", "38", "41", "42"],
+    "stock": 10,
+    "price": 1250000
+  },
+  {
+    "key": 30,
+    "type": "puma",
+    "productKey": "37330801",
+    "name": "PUMA RS-X3 UNITY (37330801)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/puma/puma-rsx-1.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/puma/puma-rsx-1.1.jpg",
+        "../assets/images/sneakers/puma/puma-rsx-1.2.jpg",
+        "../assets/images/sneakers/puma/puma-rsx-1.3.jpg",
+        "../assets/images/sneakers/puma/puma-rsx-1.4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "40.5", "43"],
+    "stock": 10,
+    "price": 1600000
+  },
+  {
+    "key": 31,
+    "type": "puma",
+    "productKey": "37157004",
+    "name": "PUMA RS-X3 TOYS (37157004)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/puma/puma-rsx-2.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/puma/puma-rsx-2.1.jpg",
+        "../assets/images/sneakers/puma/puma-rsx-2.2.jpg",
+        "../assets/images/sneakers/puma/puma-rsx-2.3.jpg",
+        "../assets/images/sneakers/puma/puma-rsx-2.4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "40.5", "43"],
+    "stock": 10,
+    "price": 1600000
+  },
+  {
+    "key": 32,
+    "type": "puma",
+    "productKey": "37157006",
+    "name": "PUMA RS-X3 PUZZLE PINK (37157006)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/puma/puma-rsx-3.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/puma/puma-rsx-3.1.jpg",
+        "../assets/images/sneakers/puma/puma-rsx-3.2.jpg",
+        "../assets/images/sneakers/puma/puma-rsx-3.3.jpg",
+        "../assets/images/sneakers/puma/puma-rsx-3.4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "41", "42"],
+    "stock": 10,
+    "price": 1550000
+  },
+  {
+    "key": 33,
+    "type": "puma",
+    "productKey": "37288401",
+    "name": "PUMA RS-X3 WHITE RED (37288401)",
+    "img": {
+      "mainImg": "../assets/images/sneakers/puma/puma-rsx-4.jpg",
+      "arrImg": [
+        "../assets/images/sneakers/puma/puma-rsx-4.1.jpg",
+        "../assets/images/sneakers/puma/puma-rsx-4.2.jpg",
+        "../assets/images/sneakers/puma/puma-rsx-4.3.jpg",
+        "../assets/images/sneakers/puma/puma-rsx-4.4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "41", "42"],
+    "stock": 10,
+    "price": 1550000
+  },
+  {
+    "key": 34,
+    "type": "spuma",
+    "productKey": "36026510",
+    "name": "PUMA POPCAT BLACK (36026510)",
+    "img": {
+      "mainImg": "../assets/images/sandals/sandal-puma-1.jpg",
+      "arrImg": [
+        "../assets/images/sandals/sandal-puma-1.1.jpg",
+        "../assets/images/sandals/sandal-puma-1.2.jpg",
+        "../assets/images/sandals/sandal-puma-1.3.jpg",
+        "../assets/images/sandals/sandal-puma-1.4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "40.5", "43"],
+    "stock": 10,
+    "price": 650000
+  },
+  {
+    "key": 35,
+    "type": "snike",
+    "productKey": "CN9678-006",
+    "name": "NIKE VICTORI ONE PRINT (CN9678-006)",
+    "img": {
+      "mainImg": "../assets/images/sandals/sandal-nike-1.jpg",
+      "arrImg": [
+        "../assets/images/sandals/sandal-nike-1.1.jpg",
+        "../assets/images/sandals/sandal-nike-1.2.jpg",
+        "../assets/images/sandals/sandal-nike-1.3.jpg",
+        "../assets/images/sandals/sandal-nike-1.4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "40.5", "43"],
+    "stock": 10,
+    "price": 850000
+  },
+  {
+    "key": 36,
+    "type": "snike",
+    "productKey": "DD0234100",
+    "name": "NIKE VICTORI ONE MIX BLACK WHITE (DD0234100)",
+    "img": {
+      "mainImg": "../assets/images/sandals/sandal-nike-2.jpg",
+      "arrImg": [
+        "../assets/images/sandals/sandal-nike-2.1.jpg",
+        "../assets/images/sandals/sandal-nike-2.2.jpg",
+        "../assets/images/sandals/sandal-nike-2.3.jpg",
+        "../assets/images/sandals/sandal-nike-2.4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "40.5", "43"],
+    "stock": 10,
+    "price": 650000
+  },
+  {
+    "key": 37,
+    "type": "sadidas",
+    "productKey": "GW8748",
+    "name": "ADILETTE SHOWER 1972 NAVY (GW8748)",
+    "img": {
+      "mainImg": "../assets/images/sandals/sandal-adidas-1.jpg",
+      "arrImg": [
+        "../assets/images/sandals/sandal-adidas-1.1.jpg",
+        "../assets/images/sandals/sandal-adidas-1.2.jpg",
+        "../assets/images/sandals/sandal-adidas-1.3.jpg",
+        "../assets/images/sandals/sandal-adidas-1.4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "40.5", "43"],
+    "stock": 10,
+    "price": 850000
+  },
+  {
+    "key": 38,
+    "type": "sadidas",
+    "productKey": "GW8747",
+    "name": "ADILETTE SHOWER 1972 BLACK (GW8747)",
+    "img": {
+      "mainImg": "../assets/images/sandals/sandal-adidas-2.jpg",
+      "arrImg": [
+        "../assets/images/sandals/sandal-adidas-2.1.jpg",
+        "../assets/images/sandals/sandal-adidas-2.2.jpg",
+        "../assets/images/sandals/sandal-adidas-2.3.jpg",
+        "../assets/images/sandals/sandal-adidas-2.4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "40.5", "43"],
+    "stock": 10,
+    "price": 850000
+  },
+  {
+    "key": 39,
+    "type": "sadidas",
+    "productKey": "CM8412",
+    "name": "ADILETTE CARTON EYE RED (CM8412)",
+    "img": {
+      "mainImg": "../assets/images/sandals/sandal-adidas-3.jpg",
+      "arrImg": ["../assets/images/sandals/sandal-adidas-3.jpg"]
+    },
+    "size": ["36.5", "38", "41", "42"],
+    "stock": 10,
+    "price": 750000
+  },
+  {
+    "key": 40,
+    "type": "sadidas",
+    "productKey": "DA9017",
+    "name": "ADILETTE CARTON EYE BLACK (DA9017)",
+    "img": {
+      "mainImg": "../assets/images/sandals/sandal-adidas-4.jpg",
+      "arrImg": ["../assets/images/sandals/sandal-adidas-4.jpg"]
+    },
+    "size": ["36.5", "38", "41", "42"],
+    "stock": 10,
+    "price": 750000
+  },
+  {
+    "key": 41,
+    "type": "sadidas",
+    "productKey": "FU7592",
+    "name": "ADILETTE LITE GREY (FU7592)",
+    "img": {
+      "mainImg": "../assets/images/sandals/sandal-adidas-5.jpg",
+      "arrImg": [
+        "../assets/images/sandals/sandal-adidas-5.1.jpg",
+        "../assets/images/sandals/sandal-adidas-5.2.jpg",
+        "../assets/images/sandals/sandal-adidas-5.3.jpg",
+        "../assets/images/sandals/sandal-adidas-5.4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "40.5", "43"],
+    "stock": 10,
+    "price": 650000
+  },
+  {
+    "key": 42,
+    "type": "sadidas",
+    "productKey": "FU8299",
+    "name": "ADILETTE LITE NAVY (FU8299)",
+    "img": {
+      "mainImg": "../assets/images/sandals/sandal-adidas-6.jpg",
+      "arrImg": [
+        "../assets/images/sandals/sandal-adidas-6.1.jpg",
+        "../assets/images/sandals/sandal-adidas-6.2.jpg",
+        "../assets/images/sandals/sandal-adidas-6.3.jpg",
+        "../assets/images/sandals/sandal-adidas-6.4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "40.5", "43"],
+    "stock": 10,
+    "price": 650000
+  },
+  {
+    "key": 43,
+    "type": "sadidas",
+    "productKey": "GZ6196",
+    "name": "ADILETTE LITE BLACK GOLD (GZ6196)",
+    "img": {
+      "mainImg": "../assets/images/sandals/sandal-adidas-7.jpg",
+      "arrImg": [
+        "../assets/images/sandals/sandal-adidas-7.1.jpg",
+        "../assets/images/sandals/sandal-adidas-7.2.jpg",
+        "../assets/images/sandals/sandal-adidas-7.3.jpg",
+        "../assets/images/sandals/sandal-adidas-7.4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "41", "42"],
+    "stock": 10,
+    "price": 750000
+  },
+  {
+    "key": 44,
+    "type": "sadidas",
+    "productKey": "FU8296",
+    "name": "ADILETTE LITE RED (FU8296)",
+    "img": {
+      "mainImg": "../assets/images/sandals/sandal-adidas-8.jpg",
+      "arrImg": [
+        "../assets/images/sandals/sandal-adidas-8.1.jpg",
+        "../assets/images/sandals/sandal-adidas-8.2.jpg",
+        "../assets/images/sandals/sandal-adidas-8.3.jpg",
+        "../assets/images/sandals/sandal-adidas-8.4.jpg"
+      ]
+    },
+    "size": ["36.5", "38", "41", "42"],
+    "stock": 10,
+    "price": 750000
+  }
+]

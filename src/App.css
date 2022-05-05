@@ -1,0 +1,456 @@
+/* 
+general 
+-------
+*/
+
+body {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+  overflow-x: hidden; /*hide when too much items to show*/
+}
+
+.container-fluid {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 0 5px !important;
+}
+
+.ant-layout {
+  background: #fff !important;
+}
+
+.mainLayout .ant-layout-header {
+  background: #f8f8f8;
+  padding: 0;
+  height: auto;
+  line-height: 1.6;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* 
+header
+------ 
+*/
+
+.ant-anchor-link-title {
+  font-size: 19px;
+  font-weight: 350;
+  color: lightslategrey !important;
+}
+
+.ant-anchor-link-title:hover {
+  color: blue !important;
+}
+.ant-layout-header {
+  position: fixed !important;
+  left: 0;
+  right: 0;
+  z-index: 999;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between !important;
+  align-items: center;
+  padding: 0;
+}
+
+.header .ant-anchor-wrapper {
+  background: none;
+}
+
+.header .ant-anchor {
+  display: flex;
+}
+.ant-anchor-link {
+  padding: 0 15px !important;
+}
+.header .ant-anchor-ink {
+  display: block;
+}
+
+.header .ant-anchor-link {
+  padding: 0 20px;
+  line-height: 1.4;
+  position: relative;
+  border: none !important;
+}
+
+/* ant menu */
+.header .ant-menu {
+  border: 0;
+  background: none !important;
+}
+
+.header .ant-menu li.ant-menu-item {
+  position: relative;
+  color: #333;
+}
+
+.searchInput .ant-input {
+  min-width: 300px;
+  border-radius: 5px !important;
+  margin-right: 5px;
+  
+}
+
+.ant-input-search-button {
+  border-radius: 100% !important;
+}
+
+.btnCartHeader {
+  margin-left: 10px;
+  display: flex;
+}
+
+.btnCart {
+  border-radius: 5px !important;
+  position: relative;
+}
+
+.cartLength {
+  position: absolute;
+  background-color: white;
+  border: 1px solid #d9d9d9;
+  color: coral;
+  width: 25px;
+  height: auto;
+  font-weight: 400;
+  font-size: 12px;
+  text-align: center;
+  border-radius: 15px;
+  margin-top: -7px;
+  margin-left: -10px;
+}
+
+.ant-anchor-ink-ball {
+  display: none !important;
+}
+
+/* 
+hero
+---- 
+*/
+.heroBlock {
+  /* background: url("assets/images/bg-hero.jpg") no-repeat;*/
+  /* background-position: 50% 100%; */
+  background-size: cover;
+  height: 100vh;
+}
+
+.heroBlock .container-fluid {
+  display: block !important;
+}
+
+.heroBlock .ant-carousel,
+.heroBlock .ant-carousel div {
+  height: 100%;
+}
+
+.heroBlock .slick-dots li button {
+  background: #000 !important;
+}
+
+.heroBlock .slick-dots li.slick-active button {
+  background: #1890ff !important;
+}
+
+.heroBlock .content {
+  max-width: 640px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 0 70px;
+}
+
+/* 
+block
+----- 
+*/
+.block {
+  padding: 60px 0;
+  /* border-bottom: 1px dashed #d9d9d9; */
+}
+
+/*
+adidas
+*/
+
+.titleHolder {
+  text-align: center;
+  position: relative;
+  padding: 0 0 20px;
+  margin: 0 0 40px;
+}
+.titleHolder:after {
+  transform: translateX(-50%);
+  content: "";
+  background: #f50;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  height: 3px;
+  width: 60px;
+}
+
+.titleHolder h2 {
+  font-size: 28px;
+  margin: 0;
+}
+
+/* .productName {
+  min-height: 40px !important;
+} */
+
+.currency {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btnView {
+  border: 1px dashed blue !important;
+  color: blue !important;
+}
+
+.btnViewMore {
+  float: right;
+  border: 1px dashed blue !important;
+  margin-right: 23px;
+  margin-top: 15px;
+  color: blue !important;
+}
+
+.detailArea {
+  padding: 30px;
+  padding-left: 110px;
+  box-shadow: 0px 0px 10px 0px lightgray !important;
+}
+
+.productImgArea,
+.productInfoArea {
+  max-width: 50% !important;
+  height: auto;
+  margin-top: 25px;
+  margin-right: 5px;
+  /* box-shadow: 0px 0px 10px 0px lightgray; */
+}
+
+.productCarousel {
+  align-items: center;
+}
+
+.productInfoArea {
+  padding-left: 20px;
+  line-height: 7vh;
+}
+.productImgArea > .productCarousel {
+  max-width: 100%;
+}
+
+.img-showcase > img {
+  width: 100%;
+  display: block;
+}
+.btnBuyArea {
+  margin-top: 5vh !important;
+}
+.btnAddCart {
+  border: 1px solid white !important;
+  background-color: #f50 !important;
+  color: white !important;
+  text-align: center !important;
+  height: auto !important;
+}
+
+.btnBuyNow {
+  text-align: center !important;
+  height: auto !important;
+  background-color: blue !important;
+  color: white !important;
+  margin-left: 7px;
+}
+
+.proName {
+  color: lightslategrey;
+  font-size: 27px;
+}
+
+.storeName {
+  color: lightslategrey;
+  font-size: 38px;
+  margin: 0;
+  padding: 20px;
+}
+.paraPart {
+  color: lightslategrey;
+  font-weight: 300;
+}
+
+.prosName {
+  color: lightslategrey;
+}
+.proPrice {
+  color: #f50;
+  font-size: x-large;
+  margin-left: 5px;
+}
+
+/*
+  cart
+*/
+
+.cartArea {
+  height: auto;
+  padding: 50px;
+  margin-top: 25px;
+  box-shadow: 0px 0px 10px 0px lightgray;
+}
+
+.proCartInfo {
+  border-right: 0.5px dashed grey;
+  /* background-color: antiquewhite !important; */
+}
+
+.customerInfo {
+  line-height: 7vh;
+  padding-left: 15px;
+  /* background-color: aliceblue !important; */
+}
+
+.cartText {
+  color: lightslategrey;
+  font-size: 17px;
+}
+
+.payment {
+  margin-bottom: 7vh;
+}
+.customerPaymentInfo {
+  padding-left: 20px !important;
+}
+
+.btnPayment {
+  width: 100%;
+  opacity: 0.7;
+  background-color: #f50 !important;
+  color: white !important;
+  border: none !important;
+  height: auto !important;
+  font-size: 20px !important;
+}
+
+.btnPayment:hover {
+  opacity: 1;
+}
+/*products*/
+
+.ant-pagination {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 7vh !important;
+}
+
+/*cart*/
+
+.btnDeleteAll,
+.btnDelete {
+  opacity: 0.6 !important;
+  font-weight: 300;
+  cursor: pointer;
+}
+
+.btnDeleteAll:hover,
+.btnDelete:hover {
+  opacity: 1 !important;
+}
+
+.totalDisplay {
+  color: #fa8c16 !important;
+}
+
+.ant-popover-buttons {
+}
+button.ant-btn.ant-btn-primary.ant-btn-sm{
+  background-color: #fa8c16 !important;
+  border: none;
+}
+
+.credit {
+  line-height: 5vh;
+}
+/* 
+footer
+------
+*/
+.ant-layout-footer {
+  background: #f8f8f8 !important;
+  color: white !important;
+  padding: 5px 0 !important;
+  text-align: center;
+  box-shadow: 10px 10px 10px 0 lightgray;
+  align-items: center;
+}
+
+.footer .goTop:hover {
+  opacity: 0.7;
+}
+
+.paragraph {
+  color: lightslategrey;
+  font-weight: 300;
+}
+
+.icon {
+  width: 30px;
+  margin-right: 10px !important;
+  opacity: 0.7;
+  margin-bottom: 10px;
+}
+
+.icon:hover {
+  opacity: 1;
+}
+
+.toTop {
+  font-size: 25px;
+  color: white !important;
+  background-color: #f50 !important;
+  border-radius: 100%;
+  padding: 5px !important;
+}
+.mobileVisible {
+  display: none;
+}
+
+.mobileHidden {
+  display: block;
+}
+
+/* 
+  responsive
+  ----------
+  */
+@media only screen and (max-width: 991px) {
+  .pricingBlock .ant-row > div:nth-child(2) .ant-list-item {
+    transform: scale(1.14);
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .pricingBlock .ant-row > div:nth-child(2) .ant-list-item {
+    transform: scale(1);
+  }
+
+  .mobileVisible {
+    display: block;
+  }
+
+  .mobileHidden {
+    display: none;
+  }
+}
